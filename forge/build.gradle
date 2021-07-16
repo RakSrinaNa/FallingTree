@@ -44,7 +44,7 @@ dependencies {
     minecraft(libs.forge)
     implementation project(":common")
 
-    implementation(fg.deobf("me.shedaniel.cloth:cloth-config-forge:4.11.19"))
+    implementation(fg.deobf("me.shedaniel.cloth:cloth-config-forge:4.11.26"))
 }
 
 processResources {
